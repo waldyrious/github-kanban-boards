@@ -1,10 +1,16 @@
 Spent a couple minutes poking around at kanban-like alternatives/supplements to labeling:
 
 * https://waffle.io/
+
+GitHub uses this and Huboard internally for some projects.
+
 * https://huboard.com/
+
+GitHub uses this and Waffle internally for some projects.
+
 * https://www.blossom.io/kanban-with-github
 
-At a glance, Blossom looks interesting. (Marking issues from the command-line?) It's also pricey. The other two SaaS apps look solid.
+Looks interesting. (Marking issues from the command-line? Sweet!) It's also pricey. Supported by Rally, so probably not going away anytime soon.
 
 * https://www.zenhub.io/
 
