@@ -2,7 +2,7 @@ Spent a couple minutes poking around at kanban-like alternatives/supplements to 
 
 * https://waffle.io/
 
-GitHub uses this and Huboard internally for some projects.
+GitHub uses this and Huboard internally for some projects. Supported by Rally, so probably not going away anytime soon.
 
 * https://huboard.com/
 
@@ -10,7 +10,7 @@ GitHub uses this and Waffle internally for some projects.
 
 * https://www.blossom.io/kanban-with-github
 
-Looks interesting. (Marking issues from the command-line? Sweet!) It's also pricey. Supported by Rally, so probably not going away anytime soon.
+Looks interesting. (Marking issues from the command-line? Sweet!) It's also pricey.
 
 * https://www.zenhub.io/
 
