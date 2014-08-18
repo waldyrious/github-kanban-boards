@@ -8,4 +8,8 @@ At a glance, Blossom looks interesting. (Marking issues from the command-line?) 
 
 * https://www.zenhub.io/
 
-The last one is a Chrome plugin. It's free, so could be worth an experiment.
+Chrome plugin. It's free, so could be worth an experiment.
+
+* [Trello](https://trello.com/)
+
+Free, easy to use. No direct GitHub integration -- would need to use IFTTT or Zapier, and might be suboptimal still.
